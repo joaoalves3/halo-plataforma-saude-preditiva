@@ -4,6 +4,8 @@ Plataforma de saúde hiperpersonalizada desenvolvida para a **Unimed Nacional** 
 
 O Halo cruza dados clínicos e de estilo de vida de cada beneficiário para gerar um **Health Score de 0 a 100** e ajudar a operadora a agir antes que a doença se agrave: de uma operadora reativa para uma operadora preditiva.
 
+**[▶ Ver o Halo funcionando](https://joaoalves3.github.io/halo-plataforma-saude-preditiva/)**
+
 > Ambiente de demonstração com dados fictícios. Na tela de login, use uma das contas de demonstração (qualquer senha é aceita).
 
 ![Painel do gestor](telas/painel-gestor.png)
@@ -35,7 +37,7 @@ O Halo cruza dados clínicos e de estilo de vida de cada beneficiário para gera
 
 ## Como abrir
 
-Baixe o arquivo `index.html` e abra no navegador.
+Acesse o link acima ou baixe o arquivo `index.html` e abra no navegador.
 
 ## Equipe
 
